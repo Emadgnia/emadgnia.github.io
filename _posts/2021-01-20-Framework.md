@@ -20,7 +20,7 @@ Maybe you wanted to modularize your code like the iOS SDK separates its API by f
 
 ### In this tutorial
 
-You'll extract **CalendarControl**, developed in <a href="/10787749-creating-a-custom-calendar-control-for-ios" rel="noopener" target="_blank">Creating a Custom CalendarControl for iOS</a> into a separate reusable framework. Along the way, you'll:
+You'll extract **CalendarControl**, developed in <a href="https://www.kodeco.com/10787749-creating-a-custom-calendar-control-for-ios" rel="noopener" target="_blank">Creating a Custom CalendarControl for iOS</a> into a separate reusable framework. Along the way, you'll:
 <ul>
 <li>Create a new framework for **CalendarControl**.</li>
 <li>Migrate the existing code.</li>
