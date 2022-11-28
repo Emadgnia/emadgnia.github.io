@@ -33,4 +33,6 @@ It works for iOS, Android, Backend devs as well as QA/Testers.
 
 ### Material
 
-You can find the workshop materials here: `/assets/NetworkDebuggingTools.pdf`{: .filepath} or download it from [here](https://docs.google.com/presentation/d/16pCPJIRgOO4Ei3xg5crrWUCSWWqm3QvjC51ezT4q_YE/edit?usp=sharing).
+You can find the workshop materials in below or download it from [here](https://docs.google.com/presentation/d/16pCPJIRgOO4Ei3xg5crrWUCSWWqm3QvjC51ezT4q_YE/edit?usp=sharing).
+
+{% pdf "/assets/NetworkDebuggingTools.pdf" %}

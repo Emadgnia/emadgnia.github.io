@@ -1,5 +1,8 @@
 # The Site Configuration
 
+plugins:
+  - jekyll-pdf-embed
+  
 # Import the theme
 theme: jekyll-theme-chirpy
 
