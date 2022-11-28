@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Network Debugging Tools"
-date: 2021-05-16 16:31 +0100
+date: 2022-05-16 16:31 +0100
 categories: [Workshop, MultiPlatform]
 tags: [proxy, charles, proxyman, android, ios]
 author: <author3_id>
@@ -27,9 +27,8 @@ It works for iOS, Android, Backend devs as well as QA/Testers.
 </ul>
 
 ### Workshops
-<ul>
-<li>At [App Builders 2022](https://appbuilders.ch/#workshops) two hours workshop, three times in one day.</li>
-</ul>
+
+At [App Builders 2022](https://appbuilders.ch/#workshops) two hours workshop, three times in one day.
 
 ### Material
 
