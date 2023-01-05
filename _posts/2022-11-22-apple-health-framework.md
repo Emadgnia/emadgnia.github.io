@@ -40,7 +40,6 @@ This course is for advanced-level developers who want to get a solid understandi
 <li>Take a deep look into the CareKit.</li>
 <li>Take a deep look into the ResearchKit.</li>
 <li>Take a deep look into the HealthKit.</li>
-
 </ul>
 
 ### Watch the course on [Kodeco](https://www.kodeco.com/26264549-apple-health-frameworks) the New [Raywenderlich.com](https://www.kodeco.com/26264549-apple-health-frameworks)
