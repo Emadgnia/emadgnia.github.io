@@ -36,17 +36,23 @@ I am an Engineer 🧑‍💻 from Iran 🇮🇷 living in Denmark 🇩🇰.
 - [Network Debugging Tools](https://appbuilders.ch/#workshops)
 - [1-Create Libraries, Frameworks, and Swift Packages for iOS](https://lu.ma/swift-packages)
 - [2-Create Libraries, Frameworks, and Swift Packages for iOS](https://lu.ma/swift-frameworks)
+- [Small Tech Teams vs Large Tech Teams Podcast](https://open.spotify.com/episode/4KOh3NZSClXOAlXSxJAGGU?si=LLDgGJieSMiFdXQgPQxuRw)
 <!-- WORKSHOPS:END -->
 
 ## Let's connect
 [![Twitter](https://img.shields.io/badge/-emadgnia-blue?style=flat&logo=twitter&logoColor=white)](http://twitter.com/emadgnia)
+
 [![My LinkedIn profile](https://img.shields.io/badge/-emadgnia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emadgnia/)
+
 [![My Github profile](https://img.shields.io/badge/-emadgnia-blue?style=flat&logo=Github&logoColor=white)](https://github.com/Emadgnia)
 
 ## Links
 [tryswift Profile](https://www.tryswift.co/world/#emadgnia) 
+
 [Appbuilders Profile](https://appbuilders.ch/) 
+
 [Kodeco Profile](https://www.kodeco.com/u/emadgnia)
+
 [AppDevCon Profile](https://appdevcon.nl/speaker/emad-ghorbaninia/)
 
 ---
