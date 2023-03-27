@@ -8,11 +8,11 @@ order: 4
 
 I am an Engineer 🧑‍💻 from Iran 🇮🇷 living in Denmark 🇩🇰.
 
-- 🔭 I’m working as a Lead iOS Engineer working with Obj-c, Swift for more than 10 years and contributing to mobile apps and backend for building applications.
+- 🔭 With over 10 years of experience, I'm a Lead iOS Engineer proficient in Objective-C and Swift, contributing to mobile apps and backend development for building exceptional applications.
 
-- 🌱 Writing and Technical editing Content at Kodeco(old Raywenderlich.com).
+- 🌱 As a Writer and Technical Editor, I'm proud to be part of Kodeco (formerly Raywenderlich.com), creating insightful content for our community.
 
-- ⚡️ Love to speak in confrances and having workshops to share my knowlage and experience.
+- ⚡️ I'm passionate about sharing my knowledge and experience through conference talks and workshops, inspiring others to learn and grow.
 
 ---
 
