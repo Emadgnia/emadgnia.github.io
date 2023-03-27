@@ -41,10 +41,13 @@ I am an Engineer 🧑‍💻 from Iran 🇮🇷 living in Denmark 🇩🇰.
 ## Let's connect
 [![Twitter](https://img.shields.io/badge/-emadgnia-blue?style=flat&logo=twitter&logoColor=white)](http://twitter.com/emadgnia)
 [![My LinkedIn profile](https://img.shields.io/badge/-emadgnia-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/emadgnia/)
+[![My Github profile](https://img.shields.io/badge/-emadgnia-blue?style=flat&logo=Github&logoColor=white)](https://github.com/Emadgnia)
 
+## Links
+[tryswift Profile](https://www.tryswift.co/world/#emadgnia) 
+[Appbuilders Profile](https://appbuilders.ch/) 
 [Kodeco Profile](https://www.kodeco.com/u/emadgnia)
-
-
+[AppDevCon Profile](https://appdevcon.nl/speaker/emad-ghorbaninia/)
 
 ---
 
