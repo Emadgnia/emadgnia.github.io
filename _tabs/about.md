@@ -6,14 +6,13 @@ order: 4
 
 ---
 
-I am an Engineer 🧑‍💻 from Iran 🇮🇷 living in Denmark 🇩🇰.
+Meet Emad, an Engineer 🧑‍💻 from Iran 🇮🇷 who now calls Denmark 🇩🇰 home.
 
-- 🔭 With over 10 years of experience, I'm a Lead iOS Engineer proficient in Objective-C and Swift, contributing to mobile apps and backend development for building exceptional applications.
+- 🔭 Emad has more than 10 years of experience as a Lead iOS Engineer, excelling in Objective-C and Swift. He loves contributing to mobile apps and backend development, creating exceptional applications.
+- 🌱 He's also a Writer and Technical Editor at Kodeco (formerly Raywenderlich.com), where he crafts insightful content for their passionate community.
+- ⚡️ Emad is all about sharing his knowledge and experience, enthusiastically taking part in conference talks and workshops to inspire others to learn and grow.
 
-- 🌱 As a Writer and Technical Editor, I'm proud to be part of Kodeco (formerly Raywenderlich.com), creating insightful content for our community.
-
-- ⚡️ I'm passionate about sharing my knowledge and experience through conference talks and workshops, inspiring others to learn and grow.
-
+When he's not busy with work, Emad enjoys a wide array of hobbies like board games 🎲, video games 🎮, binge-watching TV series 📺, and even playing the harmonica 🎼. He's also quite skilled in table tennis 🏓 and is always ready for a friendly match.
 ---
 
 ## My recent articles
@@ -33,10 +32,13 @@ I am an Engineer 🧑‍💻 from Iran 🇮🇷 living in Denmark 🇩🇰.
 
 ## My talks or workshops
 <!-- WORKSHOPS:START -->
-- [Network Debugging Tools](https://appbuilders.ch/#workshops)
-- [1-Create Libraries, Frameworks, and Swift Packages for iOS](https://lu.ma/swift-packages)
-- [2-Create Libraries, Frameworks, and Swift Packages for iOS](https://lu.ma/swift-frameworks)
+- [Network Debugging Tools @Appbuilders](https://appbuilders.ch/#workshops)
+- [1-Create Libraries, Frameworks, and Swift Packages for iOS @TrySwift](https://lu.ma/swift-packages)
+- [2-Create Libraries, Frameworks, and Swift Packages for iOS @TrySwift](https://lu.ma/swift-frameworks)
 - [Small Tech Teams vs Large Tech Teams Podcast](https://open.spotify.com/episode/4KOh3NZSClXOAlXSxJAGGU?si=LLDgGJieSMiFdXQgPQxuRw)
+- [OpenSourced Apple Health Frameworks (WOW) @AppDevCon](https://appdevcon.nl/session/opensourced-apple-health-frameworks-wow/)
+- [Network Debugging Tools @AppDevCon](https://appdevcon.nl/session/network-debugging-tools/)
+
 <!-- WORKSHOPS:END -->
 
 ## Let's connect
@@ -54,6 +56,8 @@ I am an Engineer 🧑‍💻 from Iran 🇮🇷 living in Denmark 🇩🇰.
 [Kodeco Profile](https://www.kodeco.com/u/emadgnia)
 
 [AppDevCon Profile](https://appdevcon.nl/speaker/emad-ghorbaninia/)
+
+[Sessionize Profile](https://sessionize.com/emadgnia)
 
 ---
 
