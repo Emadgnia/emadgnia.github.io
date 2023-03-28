@@ -11,7 +11,8 @@ Meet Emad, an Engineer 🧑‍💻 from Iran 🇮🇷 who now calls Denmark 🇩
 - 🔭 Emad has more than 10 years of experience as a Lead iOS Engineer, excelling in Objective-C and Swift. He loves contributing to mobile apps and backend development, creating exceptional applications.
 - 🌱 He's also a Writer and Technical Editor at Kodeco (formerly Raywenderlich.com), where he crafts insightful content for their passionate community.
 - ⚡️ Emad is all about sharing his knowledge and experience, enthusiastically taking part in conference talks and workshops to inspire others to learn and grow.
-- 🎲 When he's not busy with work, Emad enjoys a wide array of hobbies like board games, video games 🎮, binge-watching TV series 📺, and even playing the harmonica 🎼. He's also quite skilled in table tennis 🏓 and is always ready for a friendly match.
+
+### When he's not busy with work, Emad enjoys a wide array of hobbies like board games 🎲, video games 🎮, binge-watching TV series 📺, and even playing the harmonica 🎼. He's also quite skilled in table tennis 🏓 and is always ready for a friendly match.
 ---
 
 ## My recent articles
