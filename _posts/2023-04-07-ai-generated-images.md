@@ -151,7 +151,7 @@ AI-generated images can sometimes unintentionally perpetuate harmful stereotypes
 {: .prompt-tip }
 
 
-### Where to go from here:
+## Where to go from here:
 
 - [Design and Prototype Apps with Midjourney](https://designcode.io/midjourney)
 - [Build Beautiful Apps with GPT-4 and Midjourney](https://designcode.io/gpt4)
