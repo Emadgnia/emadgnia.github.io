@@ -14,6 +14,7 @@ Meet Emad, an Engineer 🧑‍💻 from Iran 🇮🇷 who now calls Denmark 🇩
 
 When he's not busy with work, Emad enjoys a wide array of hobbies like board games 🎲, video games 🎮, binge-watching TV series 📺, and even playing the harmonica 🎼. He's also quite skilled in table tennis 🏓 and is always ready for a friendly match.
 
+
 ---
 
 ## My recent articles
