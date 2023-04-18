@@ -36,10 +36,10 @@ When he's not busy with work, Emad enjoys a wide array of hobbies like board gam
 - [Network Debugging Tools @Appbuilders](https://appbuilders.ch/#workshops)
 - [1-Create Libraries, Frameworks, and Swift Packages for iOS @TrySwift](https://lu.ma/swift-packages)
 - [2-Create Libraries, Frameworks, and Swift Packages for iOS @TrySwift](https://lu.ma/swift-frameworks)
-- [Small Tech Teams vs Large Tech Teams Podcast](https://open.spotify.com/episode/4KOh3NZSClXOAlXSxJAGGU?si=LLDgGJieSMiFdXQgPQxuRw)
 - [OpenSourced Apple Health Frameworks (WOW) @AppDevCon](https://appdevcon.nl/session/opensourced-apple-health-frameworks-wow/)
 - [Network Debugging Tools @AppDevCon](https://appdevcon.nl/session/network-debugging-tools/)
-
+- [Small Tech Teams vs Large Tech Teams Podcast](https://open.spotify.com/episode/4KOh3NZSClXOAlXSxJAGGU?si=LLDgGJieSMiFdXQgPQxuRw)
+- [The Future of Tech Leads Podcast](https://open.spotify.com/episode/6Xu9uVP98JJKO5csbVXPgi?si=suGXaW6aSqKBim8hd4oIAA&dd=1&nd=1)
 <!-- WORKSHOPS:END -->
 
 ## Let's connect
