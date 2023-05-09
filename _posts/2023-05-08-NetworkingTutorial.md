@@ -21,4 +21,6 @@ Apple aptly described the challenges of debugging network problems, stating, "Ne
 
 Let's navigate to the **tutorial** [Ultimate Network Debugging Tutorial](https://www.emadgnia.com/StarProxy/tutorials/tutorial-table-of-contents/)
 
+> 🧑‍💻 Tip: To understand more details look at this article from [Apple](https://developer.apple.com/news/?id=g9ejcf8y)
+
 {% pdf "/assets/NetworkDebuggingTools-2.pdf" %}
